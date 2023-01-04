@@ -2,16 +2,16 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://sagecreations.github.io/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: 'Portfolio/'
 
 # Title of the Site
 title: Edward Cruz
 # Description of the Site
 description: Game Developer, Programmer, Game Systems Designer
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Games, Game Developer, Unreal Engine, Unity, C-Sharp, C++, Programmer
 # URL for the Image of custom Favicon
