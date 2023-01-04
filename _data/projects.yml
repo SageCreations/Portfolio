@@ -1,0 +1,35 @@
+- name: GAME-1303 Final Project (Web)
+  image: 'https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg'
+  link: https://dungeonbosses-6cef3.web.app
+  description: >-
+    A Game I made by leading a team of 5 to create a full level within 5-6 weeks.
+- name: Burnout
+  link: https://sagecreations.itch.io/burnoutupdate
+  image: 'https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg'
+  description: >-
+    My team, Sons of Glitches, Chillennium game jam submission.
+- name: Losing My Marbles
+  link: null
+  image: '/assets/images/losing-my-marbles-blog-assets/losing-my-marbles-project-thumnail.png'
+  description: A Game I am currently working on with Artifex Interactive.
+- name: ARPG-Project
+  link: null
+  image: 'https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg'
+  description: >-
+    A current project in pre-production still.
+- name: Defrain
+  link: null
+  image: ''
+  description: >-
+    A retro arcade shooter I released on Steam.
+- name: Endless Runner (Web)
+  link: https://endlessrunner-1a13b.web.app
+  image:
+  description: >-
+    A endless runner, playable in your browser and made using Godot Game Engine.
+- name: Pong (Web)
+  link: https://pong-14e39.web.app
+  image:
+  description: >-
+    A pong clone, playable in your browser and made using the Godot Game Engine.
+  
