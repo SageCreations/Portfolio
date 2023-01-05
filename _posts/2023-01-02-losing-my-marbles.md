@@ -11,10 +11,10 @@ tags:
 
 placeholder text
 
-<img src="{{site.url}}{{site.baseurl}}/assets/images/losing-my-marbles-blog-assets/losing-my-marbles-gameplay.gif" alt="one">
+<img src="{{site.url}}{{site.baseurl}}/assets/images/losing-my-marbles-blog-assets/losing-my-marbles-gameplay.gif" width="1280" height="720" alt="one">
 
 this is some test text.
 
-<img src="{{site.url}}{{site.baseurl}}/assets/images/losing-my-marbles-blog-assets/losing-my-marbles-blueprints.gif" alt="two">
+<img src="{{site.url}}{{site.baseurl}}/assets/images/losing-my-marbles-blog-assets/losing-my-marble-blueprints.gif" width="1280" height="720" alt="two">
 
 placeholder
