@@ -1,7 +1,7 @@
 ---
 title: Losing My Marbles
 layout: post
-post-image: "/assets/images/losing-my-marbles-blog-assets/losing-my-marbles-project-thumnail.png"
+post-image: "./assets/images/losing-my-marbles-blog-assets/losing-my-marbles-project-thumnail.png"
 description: One of my current projects that I am working on as a programmer on a team.
 tags:
 - Marbles
