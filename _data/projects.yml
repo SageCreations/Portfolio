@@ -1,5 +1,5 @@
 - name: GAME-1303 Final Project (Web)
-  image: 'https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg'
+  image: 'https://user-images.githubusercontent.com/20461089/210929443-1eaa1e8c-3e3e-4403-82bf-d210f69da11f.PNG'
   link: https://dungeonbosses-6cef3.web.app
   description: >-
     A Game I made by leading a team of 5 to create a full level within 5-6 weeks.
@@ -19,12 +19,12 @@
     A retro arcade shooter I released on Steam.
 - name: Endless Runner (Web)
   link: https://endlessrunner-1a13b.web.app
-  image:
+  image: 'https://user-images.githubusercontent.com/20461089/210954723-810e7fb3-8e00-4bc5-b2e4-0b0cdcde6df5.PNG'
   description: >-
     A endless runner, playable in your browser and made using Godot Game Engine.
 - name: Pong (Web)
   link: https://pong-14e39.web.app
-  image:
+  image: 'https://user-images.githubusercontent.com/20461089/210956843-0c10eefc-291e-416a-8bec-e9d06e15645f.PNG'
   description: >-
     A pong clone, playable in your browser and made using the Godot Game Engine.
   
