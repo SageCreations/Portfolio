@@ -10,7 +10,7 @@
     My team, Sons of Glitches, Chillennium game jam submission.
 - name: Losing My Marbles
   link: null
-  image: '/assets/images/losing-my-marbles-blog-assets/losing-my-marbles-project-thumnail.png'
+  image: './assets/images/losing-my-marbles-blog-assets/losing-my-marbles-project-thumnail.png'
   description: A Game I am currently working on with Artifex Interactive.
 - name: ARPG-Project
   link: null
