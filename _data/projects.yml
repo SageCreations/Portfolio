@@ -5,21 +5,16 @@
     A Game I made by leading a team of 5 to create a full level within 5-6 weeks.
 - name: Burnout
   link: https://sagecreations.itch.io/burnoutupdate
-  image: 'https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg'
+  image: 'https://user-images.githubusercontent.com/20461089/210931669-fbdc5bac-4da2-4af0-a701-171db8fe3c91.PNG'
   description: >-
     My team, Sons of Glitches, Chillennium game jam submission.
 - name: Losing My Marbles
   link: null
-  image: './assets/images/losing-my-marbles-blog-assets/losing-my-marbles-project-thumnail.png'
+  image: 'https://user-images.githubusercontent.com/20461089/210930782-3cbd9ee2-71a1-4b4a-b2ee-234e32fe5b15.png'
   description: A Game I am currently working on with Artifex Interactive.
-- name: ARPG-Project
-  link: null
-  image: 'https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg'
-  description: >-
-    A current project in pre-production still.
 - name: Defrain
   link: https://store.steampowered.com/app/745270/Defrain/
-  image: ''
+  image: 'https://user-images.githubusercontent.com/20461089/210939661-3631f7c0-bd69-4e47-9156-5eb9c9bb4ea9.PNG'
   description: >-
     A retro arcade shooter I released on Steam.
 - name: Endless Runner (Web)
