@@ -10,7 +10,7 @@ tags:
 - Project Management
 ---
 
-placeholder text.
+
 
 <video src="https://user-images.githubusercontent.com/20461089/210925770-22928084-e23d-4fd8-bb01-28a14f26f1f6.mp4" controls="controls" autoplay="autoplay" muted="muted" loop="loop"></video>
 
