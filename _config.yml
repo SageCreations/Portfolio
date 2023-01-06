@@ -43,7 +43,7 @@ disqus-shortname:
 # Name of the Author
 author-name: Edward Cruz
 # URL for the Image of the Author
-author-image: "/assets/images/profile-pic-design.png"
+author-image: "./assets/images/profile-pic-design.png"
 # 60 Words About the Author
 author-about: Led a team of 5 and drove out a finished build of our game within 6 weeks. Conceptualized and implemented enemy ai controllers for a multitude of projects across different game engines. Built a player character controller that uses custom gravity and auto camera behavior so that player only needs a single joystick and face button to play. Released Defrain, a retro arcade-style game, onto the steam store. Placed 6th out of 70+ competitors in the state of Texas for the Technology Student Association coding competition 2016-2017.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
